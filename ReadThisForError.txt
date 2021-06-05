@@ -1,0 +1,8 @@
+1.Make sure you allow access through less mobile apps is switched "ON" to send the mail to reciever mail, so that our work can run smoothly.
+2.For the very first time while you using this program you will face the issue, the next time you can work freely.
+	Just go through this link below :
+	1.) Sign in to your gmail account in a new tab for the very first time . 
+	2.)Go through the link given below and
+	3.)Click allow and you are done .
+		
+		https://support.google.com/accounts/answer/6010255#zippy=%2Cif-less-secure-app-access-is-on-for-your-account
